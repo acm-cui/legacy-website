@@ -6,10 +6,21 @@ Every time a new push/pull request is merged into the main branch of this reposi
 
 Please do not push to the main repository for the website as changes may be automatically overridden when the website is next rebuilt.
 
-## Building the website locally
+## Building the website manually
 
 If you have Jekyll installed locally, when in the directory, install the various ruby gems with the command `bundle install`. Once you have done this, you'll be able to run a local version of the website with the command `bundle exec jekyll serve` (the website will be accessible at http://localhost:4000/).
 
-If you want to build the website as it will be built for the main repository (i.e. prodcution), use the command `JEKYLL_ENV=production jekyll b --config _config.yml,_config_production.yml`.
+If you want to build the website as it will be built for the main repository (i.e. production), use the command `JEKYLL_ENV=production jekyll b --config _config.yml,_config_production.yml`.
 
-The built site is accessible in the `_site` directory.
+The built site is located in the `_site` directory.
+
+## How building automatically happens
+When you push to the main branch of this repository, a webhook calls a script running on a Raspberry Pi in Martin Porcheron's home. On a push the following happens:
+1. This repository is pulled from GitHub
+2. The production version of the website is built using Jekyll (see above)
+3. The [main repository for the website](https://github.com/cuiconference/conversationaluserinterfaces.org "Main CUI repository") is pulled
+4. The source generated from the build in step 2 is copied into the right directory in the local copy of the main repository
+5. These changes are committed, and the repository is pushed to GitHub
+6. GitHub run a number of automatic checks, and then the changes will appear on conversationaluserinterfaces.org
+
+This process can take a few minutes. If it doesn't seem to work, message Martin Porcheron as there may be a build error (the system fails quietly for now).
