@@ -1,5 +1,15 @@
-Build the site for production with:
+<h1 style="text-align: center;">Conversational User Interfaces<br>2021 Conference Website</h1>
 
-	JEKYLL_ENV=production jekyll b --config _config.yml,_config_production.yml
-	
-Copy the `_site` directory to the live repository.
+This is the 2021 conference website. The website is built uising [Jekyll](https://jekyllrb.com "Jekyll website"), a static website building software written in Ruby. This repository contains the source the website.
+
+Every time a new push/pull request is merged into the main branch of this repository, the website is rebuilt from scratch. The built website is copied them into the [main repository for the website](https://github.com/cuiconference/conversationaluserinterfaces.org "Main CUI repository"), that the domain conversationaluserinterfaces.org points to. You can also edit this website online through GitHub and the changes will be made to the live website.
+
+Please do not push to the main repository for the website as changes may be automatically overridden when the website is next rebuilt.
+
+## Building the website locally
+
+If you have Jekyll installed locally, when in the directory, install the various ruby gems with the command `bundle install`. Once you have done this, you'll be able to run a local version of the website with the command `bundle exec jekyll serve` (the website will be accessible at http://localhost:4000/).
+
+If you want to build the website as it will be built for the main repository (i.e. prodcution), use the command `JEKYLL_ENV=production jekyll b --config _config.yml,_config_production.yml`.
+
+The built site is accessible in the `_site` directory.
