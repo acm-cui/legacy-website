@@ -2,13 +2,13 @@
 
 This is the CUI Steering Committee website. The website is built uising [Jekyll](https://jekyllrb.com "Jekyll website"), a static website building software written in Ruby. This repository contains the source the website.
 
-Every time a new push/pull request is merged into the main branch of this repository, the website is rebuilt from scratch. The built website is copied them into the [main repository for the website](https://github.com/cuiconference/conversationaluserinterfaces.org "Main CUI repository"), that the domain conversationaluserinterfaces.org points to. You can also edit this website online through GitHub and the changes will be made to the live website.
+Every time a new push/pull request is merged into the main branch of this repository, the website is rebuilt from scratch. The built website is copied them into the [main repository for the website](https://github.com/cui-series/conversationaluserinterfaces.org "Main CUI repository"), that the domain conversationaluserinterfaces.org points to. You can also edit this website online through GitHub and the changes will be made to the live website.
 
 Please do not push to the main repository for the website as changes may be automatically overridden when the website is next rebuilt.
 
 ## !!!!Warning!!!!
 
-Note that the steering commitee website is the root of the domain (i.e. at conversationaluserinterfaces.org). That means, changes you make here could wipe out other websites. For example, if you make a page called '2021', you will wipe out the 2021 conference website! Always check the [main repository for the website](https://github.com/cuiconference/conversationaluserinterfaces.org "Main CUI repository") first before creating a page.
+Note that the steering commitee website is the root of the domain (i.e. at conversationaluserinterfaces.org). That means, changes you make here could wipe out other websites. For example, if you make a page called '2021', you will wipe out the 2021 conference website! Always check the [main repository for the website](https://github.com/cui-series/conversationaluserinterfaces.org "Main CUI repository") first before creating a page.
 
 ## Building the website manually
 
@@ -22,7 +22,7 @@ The built site is located in the `_site` directory.
 When you push to the main branch of this repository, a webhook calls a script running on a Raspberry Pi in Martin Porcheron's home. On a push the following happens:
 1. This repository is pulled from GitHub
 2. The production version of the website is built using Jekyll (see above)
-3. The [main repository for the website](https://github.com/cuiconference/conversationaluserinterfaces.org "Main CUI repository") is pulled
+3. The [main repository for the website](https://github.com/cui-series/conversationaluserinterfaces.org "Main CUI repository") is pulled
 4. The source generated from the build in step 2 is copied into the right directory in the local copy of the main repository
 5. These changes are committed, and the repository is pushed to GitHub
 6. GitHub run a number of automatic checks, and then the changes will appear on conversationaluserinterfaces.org
