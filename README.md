@@ -1,10 +1,14 @@
-<h1 style="text-align: center;">Conversational User Interfaces<br>2021 Conference Website</h1>
+<h1 style="text-align: center;">Conversational User Interfaces<br>Steering Committee Website</h1>
 
-This is the 2021 conference website. The website is built uising [Jekyll](https://jekyllrb.com "Jekyll website"), a static website building software written in Ruby. This repository contains the source the website.
+This is the CUI Steering Committee website. The website is built uising [Jekyll](https://jekyllrb.com "Jekyll website"), a static website building software written in Ruby. This repository contains the source the website.
 
 Every time a new push/pull request is merged into the main branch of this repository, the website is rebuilt from scratch. The built website is copied them into the [main repository for the website](https://github.com/cui-series/conversationaluserinterfaces.org "Main CUI repository"), that the domain conversationaluserinterfaces.org points to. You can also edit this website online through GitHub and the changes will be made to the live website.
 
 Please do not push to the main repository for the website as changes may be automatically overridden when the website is next rebuilt.
+
+## !!!!Warning!!!!
+
+Note that the steering commitee website is the root of the domain (i.e. at conversationaluserinterfaces.org). That means, changes you make here could wipe out other websites. For example, if you make a page called '2021', you will wipe out the 2021 conference website! Always check the [main repository for the website](https://github.com/cui-series/conversationaluserinterfaces.org "Main CUI repository") first before creating a page.
 
 ## Building the website manually
 
