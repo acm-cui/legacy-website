@@ -1,6 +1,6 @@
 {
-    "name": "Conversational User Interfaces",
-    "short_name": "CUI",
+    "name": "CUI 2021",
+    "short_name": "CUI 2021",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#C73D4D",
-    "background_color": "#C73D4D",
-    "start_url": "https://www.conversationaluserinterfaces.org/"
+    "theme_color": "#A92B7A",
+    "background_color": "#A92B7A",
+    "start_url": "https://www.conversationaluserinterfaces.org/2021/"
 }
