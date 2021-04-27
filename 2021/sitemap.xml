@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://www.conversationaluserinterfaces.org/2021/registration/accessibility/</loc>
+<lastmod>2021-04-27T16:10:34+01:00</lastmod>
+</url>
+<url>
 <loc>https://www.conversationaluserinterfaces.org/2021/contact/</loc>
 <lastmod>2021-03-12T18:35:35+00:00</lastmod>
 </url>
@@ -15,6 +19,10 @@
 <url>
 <loc>https://www.conversationaluserinterfaces.org/2021/authors/full-papers/</loc>
 <lastmod>2021-03-08T21:19:22+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.conversationaluserinterfaces.org/2021/registration/</loc>
+<lastmod>2021-04-27T16:24:51+01:00</lastmod>
 </url>
 <url>
 <loc>https://www.conversationaluserinterfaces.org/2021/</loc>
@@ -43,6 +51,10 @@
 <url>
 <loc>https://www.conversationaluserinterfaces.org/2021/authors/provocation-papers/</loc>
 <lastmod>2021-04-19T10:18:16+01:00</lastmod>
+</url>
+<url>
+<loc>https://www.conversationaluserinterfaces.org/2021/registration/reduced-rates/</loc>
+<lastmod>2021-04-27T16:10:34+01:00</lastmod>
 </url>
 <url>
 <loc>https://www.conversationaluserinterfaces.org/2021/authors/submission-guidance/</loc>
