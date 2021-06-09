@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20210608T181200Z
-UID:20210729T144000Z@2021.conversationaluserinterfaces.org
-DTSTART:20210729T144000Z
-DTEND:20210729T153000Z
+DTSTAMP:20210609T105500Z
+UID:20210729T130000Z@2021.conversationaluserinterfaces.org
+DTSTART:20210729T130000Z
+DTEND:20210729T135000Z
 SUMMARY:CUI 2021: Synthesis, talk, and directionality
 DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2021/programme/link/synthesis_talk for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
 LOCATION:Virtual Event
