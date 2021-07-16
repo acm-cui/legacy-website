@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20210711T132500Z
+DTSTAMP:20210716T141100Z
 UID:20210728T160000Z@2021.conversationaluserinterfaces.org
 DTSTART:20210728T160000Z
 DTEND:20210728T165000Z
 SUMMARY:CUI 2021: Humanness
-DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2021/programme/link/humanness for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+DESCRIPTION:Chaired byCosmin Munteanu\n\nPlease see https://www.conversationaluserinterfaces.org/2021/programme/link/humanness for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
 LOCATION:Virtual Event
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
