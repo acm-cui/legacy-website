@@ -1,0 +1,37 @@
+.container.paper {
+	margin-top: 25px;
+	padding: 50px;
+	-webkit-box-shadow: 0px 5px 12px 0px rgba(0,0,0,0.25);
+	-moz-box-shadow: 0px 5px 12px 0px rgba(0,0,0,0.25);
+	box-shadow: 0px 5px 12px 0px rgba(0,0,0,0.25);
+	margin-bottom: 50px;
+	background-color: #ffffff;
+}
+
+.navbar {
+	background-color: #ffffff;
+}
+
+.authors {
+	margin-top: 25px;
+	font-size: 1.75em;
+	font-weight: 200;
+}
+
+.venue {
+	font-size: 1.25em;
+	font-weight: 200;
+}
+
+.abstract {
+	margin-top: 50px;
+	text-align: left;
+}
+.abstract .abstract-word {
+	font-weight: bold;
+}
+
+.badge {
+	background-color: #D95D71;
+}
+
