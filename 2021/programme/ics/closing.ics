@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20210719T084400Z
-UID:20210729T164500Z@2021.conversationaluserinterfaces.org
-DTSTART:20210729T164500Z
+DTSTAMP:20210719T103900Z
+UID:20210729T165000Z@2021.conversationaluserinterfaces.org
+DTSTART:20210729T165000Z
 DTEND:20210729T170000Z
 SUMMARY:CUI 2021: Closing remarks and CUI 2022 information
 DESCRIPTION:Stephan Schlögl (CUI 2021 General Chair)\nCUI Steering Committee\nCUI 2022 General Chairs\n\nPlease see https://www.conversationaluserinterfaces.org/2021/programme/link/closing for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
