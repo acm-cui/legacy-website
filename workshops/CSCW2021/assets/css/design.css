@@ -3432,4 +3432,14 @@ textarea.form-control-lg { min-height: calc(1.5em + 1rem + 2px); }
 
 .site-banner { background: #0A558C; color: #fff; }
 
+.organiser-image { width: 100px; }
+
+@media (min-width: 576px) { .organiser-image { width: 100px; } }
+
+@media (min-width: 768px) { .organiser-image { width: 200px; } }
+
+@media (min-width: 992px) { .organiser-image { width: 200px; } }
+
+@media (min-width: 1200px) { .organiser-image { width: 200px; } }
+
 /*# sourceMappingURL=design.css.map */
