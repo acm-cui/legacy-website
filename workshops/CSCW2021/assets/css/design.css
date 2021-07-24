@@ -3430,7 +3430,9 @@ textarea.form-control-lg { min-height: calc(1.5em + 1rem + 2px); }
 
 @media print { .d-print-inline { display: inline !important; } .d-print-inline-block { display: inline-block !important; } .d-print-block { display: block !important; } .d-print-grid { display: grid !important; } .d-print-table { display: table !important; } .d-print-table-row { display: table-row !important; } .d-print-table-cell { display: table-cell !important; } .d-print-flex { display: flex !important; } .d-print-inline-flex { display: inline-flex !important; } .d-print-none { display: none !important; } }
 
-.site-banner { background: #0A558C; color: #fff; }
+.nav-link.active .triangle { width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-bottom: 5px solid #D9D80F; }
+
+.site-banner { background: #0A558C; border-top: 5px solid #D9D80F; border-bottom: 5px solid #D9D80F; color: #fff; }
 
 .organiser-image { width: 100px; }
 
