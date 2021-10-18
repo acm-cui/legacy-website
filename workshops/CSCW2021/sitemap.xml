@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/call-for-papers.html</loc>
+<loc>https://www.conversationaluserinterfaces.org/workshops/CSCW2021/call-for-papers.html</loc>
 <lastmod>2021-09-09T14:54:37+01:00</lastmod>
 </url>
 <url>
-<loc>/contact.html</loc>
+<loc>https://www.conversationaluserinterfaces.org/workshops/CSCW2021/contact.html</loc>
 <lastmod>2021-10-08T14:20:56+01:00</lastmod>
 </url>
 <url>
-<loc>/</loc>
+<loc>https://www.conversationaluserinterfaces.org/workshops/CSCW2021/</loc>
 <lastmod>2021-07-24T18:56:10+01:00</lastmod>
 </url>
 <url>
-<loc>/organisers.html</loc>
+<loc>https://www.conversationaluserinterfaces.org/workshops/CSCW2021/organisers.html</loc>
 <lastmod>2021-10-08T14:20:56+01:00</lastmod>
 </url>
 <url>
-<loc>/papers.html</loc>
+<loc>https://www.conversationaluserinterfaces.org/workshops/CSCW2021/papers.html</loc>
 <lastmod>2021-10-08T14:20:56+01:00</lastmod>
 </url>
 </urlset>
