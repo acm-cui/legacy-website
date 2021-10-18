@@ -1,1 +1,1 @@
-Sitemap: https://www.conversationaluserinterfaces.org/workshops/CSCW2021/sitemap.xml
+Sitemap: /sitemap.xml
