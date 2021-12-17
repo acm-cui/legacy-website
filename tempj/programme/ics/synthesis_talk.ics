@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//porcheron.uk//Martin Porcheron
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20211217T104500Z
+UID:20210729T130000Z@2021.conversationaluserinterfaces.org
+DTSTART:20210729T130000Z
+DTEND:20210729T135000Z
+SUMMARY:CUI 2022: Synthesis, talk, and directionality
+DESCRIPTION:Chaired byIlaria Torre\n\nPlease see https://www.conversationaluserinterfaces.org/_tempj/programme/link/synthesis_talk for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:Virtual Event
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Synthesis, talk, and directionality
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
