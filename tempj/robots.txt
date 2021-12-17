@@ -1,1 +1,1 @@
-Sitemap: https://www.conversationaluserinterfaces.org/_tempj/sitemap.xml
+Sitemap: https://www.conversationaluserinterfaces.org/tempj/sitemap.xml
