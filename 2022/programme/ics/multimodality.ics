@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20211218T114300Z
+DTSTAMP:20211218T114600Z
 UID:20210728T144000Z@2021.conversationaluserinterfaces.org
 DTSTART:20210728T144000Z
 DTEND:20210728T153000Z
 SUMMARY:CUI 2022: Multimodality
-DESCRIPTION:Chaired byJoel E. Fischer\n\nPlease see https://www.conversationaluserinterfaces.org/tempj/programme/link/multimodality for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+DESCRIPTION:Chaired byJoel E. Fischer\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/multimodality for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
 LOCATION:Virtual Event
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

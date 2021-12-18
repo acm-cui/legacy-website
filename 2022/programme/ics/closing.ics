@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20211218T114300Z
+DTSTAMP:20211218T114600Z
 UID:20210729T165000Z@2021.conversationaluserinterfaces.org
 DTSTART:20210729T165000Z
 DTEND:20210729T170000Z
 SUMMARY:CUI 2022: Closing remarks and CUI 2022 information
-DESCRIPTION:Cosmin Munteanu, on behalf of the CUI Steering Committee\nCUI 2022 General Chairs\n\nPlease see https://www.conversationaluserinterfaces.org/tempj/programme/link/closing for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+DESCRIPTION:Cosmin Munteanu, on behalf of the CUI Steering Committee\nCUI 2022 General Chairs\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/closing for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
 LOCATION:Virtual Event
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
