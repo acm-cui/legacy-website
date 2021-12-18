@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20210826T220900Z
+DTSTAMP:20211218T114300Z
 UID:20210727T183000Z@2021.conversationaluserinterfaces.org
 DTSTART:20210727T183000Z
 DTEND:20210728T130000Z
-SUMMARY:CUI 2021: 
-DESCRIPTION:The conference resumes later today\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/break_eod_1 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+SUMMARY:CUI 2022: 
+DESCRIPTION:The conference resumes later today\n\nPlease see https://www.conversationaluserinterfaces.org/tempj/programme/link/break_eod_1 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
 LOCATION:
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
