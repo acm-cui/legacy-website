@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://www.conversationaluserinterfaces.org/conferences/</loc>
-<lastmod>2021-08-02T08:35:59+01:00</lastmod>
-</url>
-<url>
 <loc>https://www.conversationaluserinterfaces.org/about/constitution/</loc>
 <lastmod>2022-02-15T11:04:11+00:00</lastmod>
 </url>
@@ -13,8 +9,16 @@
 <lastmod>2021-08-25T12:59:50+01:00</lastmod>
 </url>
 <url>
+<loc>https://www.conversationaluserinterfaces.org/conferences/host-cui/</loc>
+<lastmod>2022-03-11T16:56:20+00:00</lastmod>
+</url>
+<url>
 <loc>https://www.conversationaluserinterfaces.org/about/</loc>
 <lastmod>2022-02-15T11:05:53+00:00</lastmod>
+</url>
+<url>
+<loc>https://www.conversationaluserinterfaces.org/conferences/</loc>
+<lastmod>2022-03-09T19:30:20+00:00</lastmod>
 </url>
 <url>
 <loc>https://www.conversationaluserinterfaces.org/</loc>
