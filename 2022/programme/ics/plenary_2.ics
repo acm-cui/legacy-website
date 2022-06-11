@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//porcheron.uk//Martin Porcheron
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220728T080000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220728T080000Z
+DTEND:20220728T093000Z
+SUMMARY:CUI 2022: Town Hall &amp; Keynote 2
+DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/plenary_2 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Town Hall &amp; Keynote 2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

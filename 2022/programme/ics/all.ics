@@ -1,0 +1,176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//porcheron.uk//Martin Porcheron
+X-WR-CALNAME:https://www.conversationaluserinterfaces.org/2022/programme/ics/all.ics
+NAME:https://www.conversationaluserinterfaces.org/2022/programme/ics/all.ics
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220726T080000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220726T080000Z
+DTEND:20220726T093000Z
+SUMMARY:CUI 2022: Doctoral event
+DESCRIPTION:Details on attending this event will be available soon\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/doctoral_part_1 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220726T100000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220726T100000Z
+DTEND:20220726T113000Z
+SUMMARY:CUI 2022: Doctoral event (continued)
+DESCRIPTION:Details on attending this event will be available soon\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/doctoral_part_2 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220726T130000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220726T130000Z
+DTEND:20220726T143000Z
+SUMMARY:CUI 2022: CUIs as Entertainers
+DESCRIPTION:Chaired byJustin Edwards, Leigh Clark, Matthew Aylett, and Allison Perrone\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/sig_part_1 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220726T150000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220726T150000Z
+DTEND:20220726T163000Z
+SUMMARY:CUI 2022: CUIs as Entertainers (continued)
+DESCRIPTION:Chaired byJustin Edwards, Leigh Clark, Matthew Aylett, and Allison Perrone\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/sig_part_2 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220726T180000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220726T180000Z
+DTEND:20220726T210000Z
+SUMMARY:CUI 2022: Welcome Reception
+DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/reception for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:Glasgow City Chambers
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220727T080000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220727T080000Z
+DTEND:20220727T093000Z
+SUMMARY:CUI 2022: Welcome &amp; Keynote 1
+DESCRIPTION:Chaired byMartin Halvey, Mary Ellen Foster and Jeff Dalton (CUI 2022 General Chairs)\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/plenary_1 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220727T100000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220727T100000Z
+DTEND:20220727T113000Z
+SUMMARY:CUI 2022: Paper Session 1
+DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/papers_1 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220727T130000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220727T130000Z
+DTEND:20220727T143000Z
+SUMMARY:CUI 2022: Paper Session 2 &amp; Poster Boaster
+DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/papers_2 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220727T150000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220727T150000Z
+DTEND:20220727T163000Z
+SUMMARY:CUI 2022: Posters &amp; Demos
+DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/posters_demos for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220727T180000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220727T180000Z
+DTEND:20220727T220000Z
+SUMMARY:CUI 2022: Conference Dinner
+DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/dinner for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:Sloan’s
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220728T080000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220728T080000Z
+DTEND:20220728T093000Z
+SUMMARY:CUI 2022: Town Hall &amp; Keynote 2
+DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/plenary_2 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220728T100000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220728T100000Z
+DTEND:20220728T113000Z
+SUMMARY:CUI 2022: Paper Session 3
+DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/papers_3 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220728T130000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220728T130000Z
+DTEND:20220728T143000Z
+SUMMARY:CUI 2022: Paper Session 4
+DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/papers_4 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20220611T171900Z
+UID:20220728T150000Z@2021.conversationaluserinterfaces.org
+DTSTART:20220728T150000Z
+DTEND:20220728T163000Z
+SUMMARY:CUI 2022: Paper Session 5
+DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/papers_5 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+END:VEVENT
+
+END:VCALENDAR
