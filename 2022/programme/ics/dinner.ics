@@ -3,13 +3,13 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220611T171900Z
+DTSTAMP:20220614T155600Z
 UID:20220727T180000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220727T180000Z
 DTEND:20220727T220000Z
 SUMMARY:CUI 2022: Conference Dinner
-DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/dinner for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
-LOCATION:Sloan’s
+DESCRIPTION:A Glasgow landmark, Sloans is situated in Glasgow’s City Centre and is a short walk from the conference venue. Set over 3 floors, we will be based on one floor for a 3 course meal with drinks followed by a traditional Scottish ceilidh.\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/dinner for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+LOCATION:Sloans
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 BEGIN:VALARM
