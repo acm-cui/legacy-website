@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220614T160000Z
+DTSTAMP:20220614T160100Z
 UID:20220726T130000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220726T130000Z
 DTEND:20220726T163000Z
 SUMMARY:CUI 2022: CUIs as Entertainers
-DESCRIPTION:This event will facilitate doctoral researchers networking and research dissemination through interactive sessions facilitated by more established researchers in the field. During the event we will have:Roundtable discussionsLightning researcher talksPanel\n\nChaired byJustin Edwards, Leigh Clark, Matthew Aylett, and Allison Perrone\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/sig_1 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+DESCRIPTION:This SIG will feature practical demonstrations of tools that allow us to use CUIs as entertainers such as large language models like GPT-3, Hidden Markov Models like those used by Botnik’s Voicebox keyboards, and the voice puppetry technology made by CereProc. This event will introduce these tools to participants and give everyone a chance to play around with them on their own, showcasing the creative and entertaining outputs they leverage from CUIs.\n\nChaired byJustin Edwards, Leigh Clark, Matthew Aylett, and Allison Perrone\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/sig_1 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
 LOCATION:
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
