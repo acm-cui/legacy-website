@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220619T093400Z
+DTSTAMP:20220619T113100Z
 UID:20220728T100000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220728T100000Z
 DTEND:20220728T113000Z
 SUMMARY:CUI 2022: Paper Session 3
-DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/papers_3 for more detailed session information.\n\nJoining details are emailed to all registered attendees prior to the conference.
+DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/papers_3 for more detailed session information.
 LOCATION:
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
