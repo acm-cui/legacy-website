@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220726T080000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220726T080000Z
 DTEND:20220726T113000Z
 SUMMARY:CUI 2022: Doctoral event
-DESCRIPTION:This event will facilitate doctoral researchers networking and research dissemination through interactive sessions facilitated by more established researchers in the field. During the event we will have:Roundtable discussionsLightning researcher talksPanel\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/doctoral_1 for more detailed session information.
+DESCRIPTION:This event will facilitate doctoral researchers networking and research dissemination through interactive sessions facilitated by more established researchers in the field. During the event we will have:Roundtable discussionsLightning researcher talksPanelJoining information has been emailed to registered attendees.\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/doctoral_1 for more detailed session information.
 LOCATION:Uni. of Glasgow
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

@@ -6,31 +6,31 @@ NAME:https://www.conversationaluserinterfaces.org/2022/programme/ics/all.ics
 REFRESH-INTERVAL;VALUE=DURATION:P1D
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220726T080000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220726T080000Z
 DTEND:20220726T113000Z
 SUMMARY:CUI 2022: Doctoral event
-DESCRIPTION:This event will facilitate doctoral researchers networking and research dissemination through interactive sessions facilitated by more established researchers in the field. During the event we will have:Roundtable discussionsLightning researcher talksPanel\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/doctoral_1 for more detailed session information.
+DESCRIPTION:This event will facilitate doctoral researchers networking and research dissemination through interactive sessions facilitated by more established researchers in the field. During the event we will have:Roundtable discussionsLightning researcher talksPanelJoining information has been emailed to registered attendees.\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/doctoral_1 for more detailed session information.
 LOCATION:Uni. of Glasgow
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220726T130000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220726T130000Z
 DTEND:20220726T163000Z
 SUMMARY:CUI 2022: CUIs as Entertainers
-DESCRIPTION:This SIG will feature practical demonstrations of tools that allow us to use CUIs as entertainers such as large language models like GPT-3, Hidden Markov Models like those used by Botnik’s Voicebox keyboards, and the voice puppetry technology made by CereProc. This event will introduce these tools to participants and give everyone a chance to play around with them on their own, showcasing the creative and entertaining outputs they leverage from CUIs.\n\nChaired byJustin Edwards, Leigh Clark, Matthew Aylett, and Allison Perrone\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/sig_1 for more detailed session information.
+DESCRIPTION:This SIG will feature practical demonstrations of tools that allow us to use CUIs as entertainers such as large language models like GPT-3, Hidden Markov Models like those used by Botnik’s Voicebox keyboards, and the voice puppetry technology made by CereProc. This event will introduce these tools to participants and give everyone a chance to play around with them on their own, showcasing the creative and entertaining outputs they leverage from CUIs.Joining information has been emailed to registered attendees.\n\nChaired byJustin Edwards, Leigh Clark, Matthew Aylett, and Allison Perrone\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/sig_1 for more detailed session information.
 LOCATION:Uni. of Glasgow
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220726T180000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220726T180000Z
 DTEND:20220726T210000Z
@@ -42,11 +42,11 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220727T080000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220727T080000Z
 DTEND:20220727T093000Z
-SUMMARY:CUI 2022: Welcome &amp; Keynote 1
+SUMMARY:CUI 2022: Welcome and Keynote 1
 DESCRIPTION:The CUI 2022 General Chairs will open the conference before introducing the first conference keynote.\n\nChaired byMartin Halvey, Mary Ellen Foster and Jeff Dalton (CUI 2022 General Chairs)\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/plenary_1 for more detailed session information.
 LOCATION:
 TRANSP:OPAQUE
@@ -54,7 +54,7 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220727T100000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220727T100000Z
 DTEND:20220727T113000Z
@@ -66,11 +66,11 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220727T130000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220727T130000Z
 DTEND:20220727T143000Z
-SUMMARY:CUI 2022: Paper Session 2 &amp; Poster Boaster
+SUMMARY:CUI 2022: Paper Session 2 and Poster Boaster
 DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/papers_2 for more detailed session information.
 LOCATION:
 TRANSP:OPAQUE
@@ -78,11 +78,11 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220727T150000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220727T150000Z
 DTEND:20220727T163000Z
-SUMMARY:CUI 2022: Posters &amp; Demos
+SUMMARY:CUI 2022: Posters and Demos
 DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/posters_demos for more detailed session information.
 LOCATION:
 TRANSP:OPAQUE
@@ -90,7 +90,7 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220727T180000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220727T180000Z
 DTEND:20220727T220000Z
@@ -102,11 +102,11 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220728T080000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220728T080000Z
 DTEND:20220728T093000Z
-SUMMARY:CUI 2022: Town Hall &amp; Keynote 2
+SUMMARY:CUI 2022: Town Hall and Keynote 2
 DESCRIPTION:We will have a Town Hall chaired by the CUI Steering Committee, discussing the future of the conference series and CUI 2023. Following this, we will have the second conference keynote.\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/plenary_2 for more detailed session information.
 LOCATION:
 TRANSP:OPAQUE
@@ -114,7 +114,7 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220728T100000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220728T100000Z
 DTEND:20220728T113000Z
@@ -126,7 +126,7 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220728T130000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220728T130000Z
 DTEND:20220728T143000Z
@@ -138,7 +138,7 @@ X-MICROSOFT-CDO-BUSYSTATUS:BUSY
 END:VEVENT
 
 BEGIN:VEVENT
-DTSTAMP:20220629T221200Z
+DTSTAMP:20220710T171700Z
 UID:20220728T150000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220728T150000Z
 DTEND:20220728T163000Z
