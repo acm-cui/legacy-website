@@ -3,10 +3,10 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20220710T171700Z
-UID:20220727T220000Z@2021.conversationaluserinterfaces.org
-DTSTART:20220727T220000Z
-DTEND:20220727T220000Z
+DTSTAMP:20220719T205500Z
+UID:20220727T235900Z@2021.conversationaluserinterfaces.org
+DTSTART:20220727T235900Z
+DTEND:20220727T235900Z
 SUMMARY:CUI 2022: 
 DESCRIPTION:The conference resumes tomorrow\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/eod_wednesday for more detailed session information.
 LOCATION:
