@@ -27,9 +27,9 @@ jobs:
         with:
           source-directory: '.'
           destination-github-username: 'acm-cui'
-          destination-repository-name: 'conversationaluserinterfaces.org'
+          destination-repository-name: 'website'
           user-email: 'cuitechchair@gmail.com'
           user-name: 'cuibot'
-          target-branch: 'master' # This will change in the future to 'main' or equivalent
+          target-branch: 'live' # This will change in the future to 'main' or equivalent
           target-directory: 'workshops/AutoUI2021' ###### <<<<<<<<<<<<<<<<<< ENSURE YOU CHANGE THIS!!!
 
