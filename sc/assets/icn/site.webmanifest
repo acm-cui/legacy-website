@@ -1,0 +1,19 @@
+{
+    "name": "Conversational User Interfaces",
+    "short_name": "CUI",
+    "icons": [
+        {
+            "src": "android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#C73D4D",
+    "background_color": "#C73D4D",
+    "start_url": "https://www.conversationaluserinterfaces.org/"
+}
