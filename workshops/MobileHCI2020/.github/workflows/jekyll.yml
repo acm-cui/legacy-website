@@ -28,7 +28,7 @@ jobs:
           git_user_signingkey: true
           git_config_global: true
           git_commit_gpgsign: true
-      - name: Push to main website repository
+      - name: Push to website repository
         uses: acm-cui/github-action-push@main
         env:
           SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
