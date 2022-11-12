@@ -20,16 +20,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-#       - name: Import GPG key
-#         id: import_gpg
-#         uses: crazy-max/ghaction-import-gpg@v5
-#         with:
-#           git_user_signingkey: true
-#           git_config_global: true
-#           git_commit_gpgsign: true
-#           workdir: '/home/runner/work/_temp/_github_home'
       - name: Push to website repository
-        uses: acm-cui/github-action-push@main
+        uses: acm-cui/github-action-push-to-website@main
         env:
           SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
         with:
