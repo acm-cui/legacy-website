@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221112T220200Z
+DTSTAMP:20230129T141500Z
 UID:20220727T080000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220727T080000Z
 DTEND:20220727T093000Z
 SUMMARY:CUI 2022: Welcome and Keynote 1
-DESCRIPTION:The CUI 2022 General Chairs will open the conference before introducing the first conference keynote.\n\nChaired byMartin Halvey, Mary Ellen Foster and Jeff Dalton (CUI 2022 General Chairs)\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/plenary_1 for more detailed session information.
+DESCRIPTION:The CUI 2022 General Chairs will open the conference before introducing the first conference keynote.\n\nChaired byMartin Halvey, Mary Ellen Foster and Jeff Dalton (CUI 2022 General Chairs)\n\nPlease see https://cui.acm.org/2022/programme/link/plenary_1 for more detailed session information.
 LOCATION:
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

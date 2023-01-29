@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221112T220200Z
+DTSTAMP:20230129T141500Z
 UID:20220726T180000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220726T180000Z
 DTEND:20220726T190000Z
 SUMMARY:CUI 2022: Welcome Reception
-DESCRIPTION:The city of Glasgow are offering a welcome reception at the Glasgow City Chambers to CUI attendees, family and friends; where we will be welcomed by on the cities bailies.\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/reception for more detailed session information.
+DESCRIPTION:The city of Glasgow are offering a welcome reception at the Glasgow City Chambers to CUI attendees, family and friends; where we will be welcomed by on the cities bailies.\n\nPlease see https://cui.acm.org/2022/programme/link/reception for more detailed session information.
 LOCATION:City Chambers\, George Square\, Glasgow\, Strathclyde\, G2 1DU
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

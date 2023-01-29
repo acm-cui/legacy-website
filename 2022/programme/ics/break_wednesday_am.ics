@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221112T220200Z
+DTSTAMP:20230129T141500Z
 UID:20220727T093000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220727T093000Z
 DTEND:20220727T100000Z
 SUMMARY:CUI 2022: 
-DESCRIPTION:Refreshment break (####)\n\nPlease see https://www.conversationaluserinterfaces.org/2022/programme/link/break_wednesday_am for more detailed session information.
+DESCRIPTION:Refreshment break (####)\n\nPlease see https://cui.acm.org/2022/programme/link/break_wednesday_am for more detailed session information.
 LOCATION:
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY

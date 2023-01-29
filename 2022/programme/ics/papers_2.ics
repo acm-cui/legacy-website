@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//porcheron.uk//Martin Porcheron
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20221112T220200Z
+DTSTAMP:20230129T141500Z
 UID:20220727T130000Z@2021.conversationaluserinterfaces.org
 DTSTART:20220727T130000Z
 DTEND:20220727T143000Z
 SUMMARY:CUI 2022: Paper Session 2 and Poster Boaster
-DESCRIPTION:Please see https://www.conversationaluserinterfaces.org/2022/programme/link/papers_2 for more detailed session information.
+DESCRIPTION:Please see https://cui.acm.org/2022/programme/link/papers_2 for more detailed session information.
 LOCATION:
 TRANSP:OPAQUE
 X-MICROSOFT-CDO-BUSYSTATUS:BUSY
